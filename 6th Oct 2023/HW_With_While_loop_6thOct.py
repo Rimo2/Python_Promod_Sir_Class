@@ -3,7 +3,7 @@
 # print(f''), How can print the same?
 
 num1 = int(input('Enter the no to print its table:\n'))
-num2 = int(input('Enter the no up to which you want the table:\n'))
+num2 = int(input('Enter the upper limit:\n'))
 i = 1
 j = 1
 while i <= num2:
