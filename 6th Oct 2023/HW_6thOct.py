@@ -11,4 +11,4 @@ while i <= num2:
     print(f'{num1} x {i} = {j}')
     i = i + 1
 
-# Instead of this - print(str(num1)+' x '+str(i)+' = '+str(j)), we used the f'' to print the desired results
+# Instead of this - print(str(num1)+' x '+str(i)+' = '+str(j)), I used the f'' to print the desired results
