@@ -2,8 +2,8 @@
 # the first number is greater than, less than, or equal to the second number.
 
 
-num1 = int(input('Enter the 1st no:\n'))
-num2 = int(input('Enter the 2nd no:\n'))
+num1 = float(input('Enter the 1st no:\n'))
+num2 = float(input('Enter the 2nd no:\n'))
 
 if num1 > num2:
     print(f'The number {num1} is greater than {num2}')

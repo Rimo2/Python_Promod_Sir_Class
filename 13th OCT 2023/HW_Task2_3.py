@@ -64,3 +64,13 @@ cube = max_num ** 3
 print(f"The largest number is {max_num}")
 print(f"The square of the largest number is {square}")
 print(f"The cube of the largest number is {cube}")
+
+# max(*args) --> It can have any no of arguments
+
+num1 = float(input("Enter the first number: "))
+num2 = float(input("Enter the second number: "))
+num3 = float(input("Enter the third number: "))
+
+result = max(num1,num2,num3)
+
+print(f'The largest no is {result}')
