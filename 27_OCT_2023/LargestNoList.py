@@ -7,7 +7,7 @@ user_input = input("Enter your integers separated by spaces: ")
 user_list = user_input.split()
 
 # Converting elements to integers
-user_list = [int(element) for element in user_list]
+user_list = [int(i) for i in user_list]
 
 # Printing the max no
 

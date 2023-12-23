@@ -1,0 +1,4 @@
+Create booking TC
+<class 'str'>
+<class 'dict'>
+<class 'dict'>

@@ -11,3 +11,4 @@ sum = 0
 for i in range (0,len):
    sum = sum+user_list[i]
 print("The summation of all the elements are: "+str(sum))
+

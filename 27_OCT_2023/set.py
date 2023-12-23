@@ -25,7 +25,7 @@ print(set3)
 # set2[1] --> Not possible as Like tuple, set is also immutable and does not allow item assignment
 print(len(set2))
 
-set4 = {"Subhasish", "Bumba", "Rimo", "Riya", "Amrita", "Bumba"}
+set4 = {"Subhasish", "Bumba", "Rimo", "Riya", "Amrita", "Bumba", "Subhasish"}
 print(set4)
 
 
@@ -37,3 +37,4 @@ set5 = set(list1)
 
 print(set5)
 print(len(set5))
+
